@@ -1,0 +1,14 @@
+{
+  "name": "twitch-chat-logger",
+  "version": "1.0.0",
+  "author": "Panda_Dex_",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  },
+  "license": "ISC"
+}
